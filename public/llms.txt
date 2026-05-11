@@ -1,0 +1,83 @@
+# ליאת קליניק — Generative Engine Optimization Map
+
+> Liat Clinic is a beauty and wellness clinic specializing in Japanese head spa treatments and scalp care therapies. The brand draws from the serene, ritualistic aesthetic of Japanese wellness culture, offering a tranquil and restorative experience focused on scalp health and deep relaxation. The clinic blends Eastern healing traditions with professional beauty treatments, creating an atmosphere of calm, purity, and mindful self-care.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ליאת קליניק מביאה לך את חוויית הספא ראש היפני האותנטית: טיפולי קרקפת מרגיעים, ריפוי עמוק ושלווה מוחלטת. הזמן תור עוד היום וחווה רגיעה אמיתית.
+
+### שירותים
+https://example.com/services
+גלי את מגוון טיפולי הספא ראש היפני שלנו: עיסוי קרקפת עמוק, טיפולי שיער יפניים ושחרור מתחים. כל טיפול מעוצב כדי להעניק לך רגיעה מקסימלית ותוצאות מדהימות.
+
+### אודות
+https://example.com/about
+ליאת קליניק נולדה מתוך אהבה לתרבות הריפוי היפנית ולטיפוח אמיתי. הכירי את הפילוסופיה, המומחיות והחזון שהפכו אותנו לבית הבכיר לספא ראש יפני בתל אביב.
+
+### צור קשר
+https://example.com/contact
+מוכנה לחוות את טיפול הספא ראש היפני שישנה לך את היום? צרי קשר עם ליאת קליניק עכשיו לקביעת תור, שאלות ומידע על כל טיפולי הקרקפת שלנו. אנחנו כאן בשבילך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ליאת קליניק
+Liat Clinic is a beauty and wellness clinic specializing in Japanese head spa treatments and scalp care therapies. The brand draws from the serene, ritualistic aesthetic of Japanese wellness culture, offering a tranquil and restorative experience focused on scalp health and deep relaxation. The clinic blends Eastern healing traditions with professional beauty treatments, creating an atmosphere of calm, purity, and mindful self-care.
+
+## Services/Products
+- ספא ראש יפני
+- טיפולי קרקפת
+
+## Target Audience
+- מקצוענים עירוניים
+- נשים מודעות לבריאות
+- מחפשי ספא יוקרה
+- אנשים לחוצים מתעשיית הטכנולוגיה
+
+## Industry
+יופי וטיפוח / ספא ורפואה אלטרנטיבית
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
